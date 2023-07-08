@@ -2,7 +2,6 @@
 layout: post
 title: blog
 ---
-[get the cv](/assets/ikumar_IITBHU.pdf)
 
 {% if site.show_excerpts %}
   {% include home.html %}
