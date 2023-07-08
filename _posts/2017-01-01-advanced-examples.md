@@ -29,11 +29,10 @@ static void asyncEnabled(Dict* args, void* vAdmin, String* txid, struct Allocato
 }
 {% endhighlight %}
 
-'''python
+```python
  def add{a, b}:
         return a + b 
-
-'''
+```
 
 {% highlight python %}
 # Your Python code here
@@ -42,6 +41,13 @@ def hello_world():
 
 hello_world()
 {% endhighlight %}
+
+```javascript
+function foo () {
+    return "bar";
+}
+```
+
 
 ## Gists
 
