@@ -5,7 +5,9 @@ layout: post
 categories: media
 ---
 
-![Llinear Regression](https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/2.3.png)
+![Linear Regression](https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/2.3.png)
+
+![Linear Regression](../assets/linear_regression.PNG)
 
 
 ## Introduction
@@ -25,15 +27,27 @@ static void asyncEnabled(Dict* args, void* vAdmin, String* txid, struct Allocato
     Dict d = Dict_CONST(String_CONST("asyncEnabled"), Int_OBJ(enabled), NULL);
     Admin_sendMessage(&d, txid, admin);
 }
-
 {% endhighlight %}
 
-{% highlight %}
+```python
+ def add{a, b}:
+        return a + b 
+```
 
-def add{a, b}:
-    return a + b
-    
-{% endlighlight %}
+{% highlight python %}
+# Your Python code here
+def hello_world():
+    print("Hello, World!")
+
+hello_world()
+{% endhighlight %}
+
+```javascript
+function foo () {
+    return "bar";
+}
+```
+
 
 ## Gists
 
@@ -43,7 +57,7 @@ With the `jekyll-gist` plugin, which is preinstalled on Github Pages, you can em
 
 ## Images
 
-{% include url="https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/2.3.png" %}
+{% include embed.html url="https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/2.3.png" %}
 
 ## Embedded content
 
