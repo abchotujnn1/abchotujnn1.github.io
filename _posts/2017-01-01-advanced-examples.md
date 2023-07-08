@@ -27,18 +27,20 @@ static void asyncEnabled(Dict* args, void* vAdmin, String* txid, struct Allocato
     Dict d = Dict_CONST(String_CONST("asyncEnabled"), Int_OBJ(enabled), NULL);
     Admin_sendMessage(&d, txid, admin);
 }
+{% endhighlight %}
+
 '''python
  def add{a, b}:
         return a + b 
 
 '''
-{% endhighlight %}
 
 {% highlight python %}
+# Your Python code here
+def hello_world():
+    print("Hello, World!")
 
-    def add{a, b}:
-        return a + b
-    
+hello_world()
 {% endhighlight %}
 
 ## Gists
