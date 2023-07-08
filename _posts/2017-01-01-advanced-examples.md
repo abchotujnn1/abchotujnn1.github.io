@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-![Llinear Regression](https://data-science-blog.com/blog/2022/05/02/understanding-linear-regression-with-all-statistical-terms/)
+![Llinear Regression](https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/2.3.png)
 
 
 ## Introduction
@@ -35,7 +35,9 @@ With the `jekyll-gist` plugin, which is preinstalled on Github Pages, you can em
 <script src="https://gist.github.com/5555251.js?file=gist.md"></script>
 
 ## Images
-na
+
+{% include url="https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/2.3.png" %}
+
 ## Embedded content
 
 You can also embed a lot of stuff, for example from YouTube, using the `embed.html` include.
