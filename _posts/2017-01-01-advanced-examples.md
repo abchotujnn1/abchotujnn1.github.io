@@ -35,7 +35,7 @@ static void asyncEnabled(Dict* args, void* vAdmin, String* txid, struct Allocato
 def add{a, b}:
     return a + b
     
-{% endlighlight %}
+{% endhighlight %}
 
 ## Gists
 
