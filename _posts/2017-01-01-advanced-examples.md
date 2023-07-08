@@ -5,9 +5,9 @@ layout: post
 categories: media
 ---
 
-![Llinear Regression](https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/2.3.png)
+![Linear Regression](https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/2.3.png)
 
-![Llinear Regression](../assets/linear_regression.PNG)
+![Linear Regression](../assets/linear_regression.PNG)
 
 
 ## Introduction
