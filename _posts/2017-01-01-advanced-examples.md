@@ -32,8 +32,8 @@ static void asyncEnabled(Dict* args, void* vAdmin, String* txid, struct Allocato
 
 {% highlight python %}
 
-def add{a, b}:
-    return a + b
+    def add{a, b}:
+        return a + b
     
 {% endhighlight %}
 
