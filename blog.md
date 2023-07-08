@@ -1,6 +1,11 @@
 ---
 layout: post
-title: my cv file
+title: blog
 ---
 [get the cv](/assets/ikumar_IITBHU.pdf)
-I am indrajeet kumar and this is my blog post page
+
+{% if site.show_excerpts %}
+  {% include home.html %}
+{% else %}
+  {% include archive.html title="Posts" %}
+{% endif %}
