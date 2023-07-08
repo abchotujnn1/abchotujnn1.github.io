@@ -1,11 +1,11 @@
 ---
-title:  "Advanced examples"
+title:  "Linear regression"
 mathjax: true
 layout: post
 categories: media
 ---
 
-![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
+![Swiss Alps](https://data-science-blog.com/blog/2022/05/02/understanding-linear-regression-with-all-statistical-terms/)
 
 
 ## MathJax
