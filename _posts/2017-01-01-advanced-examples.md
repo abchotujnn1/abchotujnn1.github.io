@@ -28,6 +28,13 @@ static void asyncEnabled(Dict* args, void* vAdmin, String* txid, struct Allocato
 
 {% endhighlight %}
 
+{% highlight %}
+
+def add{a, b}:
+    return a + b
+    
+{% endlighlight %}
+
 ## Gists
 
 With the `jekyll-gist` plugin, which is preinstalled on Github Pages, you can embed gists simply by using the `gist` command:
