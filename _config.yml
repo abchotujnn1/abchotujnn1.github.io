@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   #- {title: "home_change", file: "index.html"}
   - {title: "about_me", file: "introduction.md"}
   #- {title: "cv_ikumar", file: "/assets/ikumar_IITBHU.pdf"}
-  - {title: "cv_ikumar", file: "/assets/ikumar_IITBHU.pdf"}
+  - {title: "cv_ikumar", file: "https://github.com/abchotujnn1/abchotujnn1.github.io/blob/master/assets/ikumar_IITBHU.pdf"}
   - {title: "blog_link", url: "https://medium.com/@indrajeetkumar.iitbhu14"}
   - {title: "blog_post", file: "blog.md"}
 
