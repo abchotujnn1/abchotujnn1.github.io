@@ -57,7 +57,7 @@ With the `jekyll-gist` plugin, which is preinstalled on Github Pages, you can em
 
 ## Images
 
-{% include url="https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/2.3.png" %}
+{% include embed.html url="https://cdn.analyticsvidhya.com/wp-content/uploads/2021/05/2.3.png" %}
 
 ## Embedded content
 
